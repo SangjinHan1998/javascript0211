@@ -1,0 +1,5 @@
+if (h1.classList.contains(clickedClass))   {
+      h1.classList.remove(clickedClass);
+    } else {
+      h1.classList.add(clickedClass);
+    }
